@@ -1,0 +1,23 @@
+set PROGRAM=Triangle.exe
+
+%PROGRAM% 1 1 1
+
+%PROGRAM% 0
+
+%PROGRAM% -1 1 1
+
+%PROGRAM% 1 1 0
+
+%PROGRAM% cc 12 bb
+
+%PROGRAM% 14o 14e 14q
+
+%PROGRAM% 1..12 1.1 1
+
+%PROGRAM% 2 4 2.
+
+%PROGRAM% . 2 2
+
+%PROGRAM% .2 2 2
+
+%PROGRAM% 3 4 5
